@@ -8,20 +8,33 @@ To write a python program to circulate the n variables using function concept
 
 PC
 Anaconda - Python 3.7
+
 ## Algorithm: 
 
 ### Step 1:
+
 Get the list of values from the user
+
 ### Step 2: 
+
 Get the value from the user for the number of rotation
+
 ### Step 3: 
+
 Declare a function starting with a keyword 'def'
+
 ### Step 4: 
+
 Within the function print the output statement
+
 ### Step 5: 
+
 Using the slicing concept rotate the list
+
 ### Step 6: 
+
 Display the output
+
 ## Program:
 ```python
 #Program to circulate N values.
@@ -34,7 +47,8 @@ l=eval(input())
 n=int(input())
 ```
 ## Output:
-![](./circulate%20the%20variables.png)
+![](circulate%20n%20variable.png)
 
 ## Result:
+
 Thus,the program to circulate the n variables using fuction is executed successfully.
